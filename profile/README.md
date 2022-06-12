@@ -6,6 +6,7 @@ Viter is a platform used for the rental and purchase of electric vehicles that a
 * Leisure – Viter believes that electric mobility is more than a convenient,it is a lifestyle, offering unique mechanics and unique ways of engaging with the user.
 * Security - The security of our users is fundamental for the integration of the platform in an urban complex.
 
+
 <p align="center">
   <img alt="IPCA" src="https://ipca.pt/wp-content/uploads/2016/07/IPCA-Logo_rgb_v2.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
